@@ -6,7 +6,7 @@ K-means Clustering 750 European cities based on their physical parameters and ev
 * Clustering cities with K-means
 * Evaluating economic parameters
 ## Results
-![](https://github.com/cliptic/Cities/blob/master/images/map150.jpg =350x350)
+![](https://github.com/cliptic/Cities/blob/master/images/map150.jpg)
 ![](https://github.com/cliptic/Cities/blob/master/images/characteristics.jpg)
 
 ## Abstract
