@@ -75,4 +75,8 @@ Selecting a number of clusters is a complex tast. There were several methods use
 ![ ](https://github.com/cliptic/Cities/blob/master/images/KMst%20sil.png)
 
 
-
+#### DATA
+[Primary Data With City, FUA Names and ID's](https://github.com/cliptic/Cities/blob/master/CFDATA20180505.csv)
+[Data with Decimal Scaling](https://github.com/cliptic/Cities/blob/master/originaldataset.csv)
+[Z-score standardised data for Clustering](https://github.com/cliptic/Cities/blob/master/KMdatasetST03.csv)
+[Some Primary Geographical Attributes](https://github.com/cliptic/Cities/tree/master/transform)
