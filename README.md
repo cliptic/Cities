@@ -74,6 +74,27 @@ Selecting a number of clusters is a complex tast. There were several methods use
 ![ ](https://github.com/cliptic/Cities/blob/master/images/KMst%20dist.png)
 ![ ](https://github.com/cliptic/Cities/blob/master/images/KMst%20sil.png)
 
+## Economic Valuation
+
+From the results we can see that clustering with physical parameters can provide some
+basic insight into the functional and economical structure or the city. In addition, we can extract
+some reasonable overviews in the geographical distribution. This might be due to the fact that
+different countries tend to have various traditions of building and react to the climatic
+conditions. It is possible to assume, that the physical structure represents the culture of the
+place, not just the economic performance.
+Nevertheless, some general insights can be concluded:
+- Big capital cities tend to cluster together and are easily defined as having exceptional
+structural parameters: density, spread, land-use parameters.
+- The surrounding cities of the central capitals work as “donors” and provide the living
+area for the central territories, which contain most of the business stock of the
+surrounding functional pattern. The livable suburban-type city can be observed in the
+geographical characteristics such as high levels of coverage by urban green
+infrastructure that provide an attractive area to live in.
+- No single economical unit will work better than an area densely interconnected and
+sharing the public infrastructure. This includes the public sector employment measures
+as well as high density and land-uptake
+![](https://github.com/cliptic/Cities/blob/master/images/Economics01.jpg)
+![](https://github.com/cliptic/Cities/blob/master/images/Economics02.jpg)
 
 #### DATA
 [Primary Data With City, FUA Names and ID's](https://github.com/cliptic/Cities/blob/master/CFDATA20180505.csv)
