@@ -1,4 +1,4 @@
-# Relationship Between City's Physical Structure and Economic Performance
+# Relationship Between City's Physical Structure and Economic Performance [Full_text](https://github.com/cliptic/Cities/blob/master/Thesis%202018%2006%2006.pdf)
 K-means Clustering 750 European cities based on their physical parameters and evaluating economic parameters
 #### Methodology steps:
 * Gathering geographical data
